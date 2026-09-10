@@ -5,7 +5,7 @@
 - Pronouns: He/Him
 - How to reach me:
   - Email: dhananjaykumarsingh019@gmail.com
-  - LinkedIn: [Dhananjay Singh](www.linkedin.com/in/dhananjay-kumar-singh-537270259)
+  - LinkedIn: [www.linkedin.com/in/dhananjay-kumar-singh-537270259]
 
 I'm a Java Developer who loves coding, data analytics, and building new projects. I'm currently sharpening my Data Structures & Algorithms skills.
 
